@@ -1,5 +1,6 @@
 @echo off
 title installing...
 
+echo installer running...
 python.exe -m pip install --upgrade pip
 pip install ursina
